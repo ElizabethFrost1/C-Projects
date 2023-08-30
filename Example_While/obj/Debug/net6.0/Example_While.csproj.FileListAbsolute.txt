@@ -1,0 +1,15 @@
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\bin\Debug\net6.0\Example_While.exe
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\bin\Debug\net6.0\Example_While.deps.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\bin\Debug\net6.0\Example_While.runtimeconfig.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\bin\Debug\net6.0\Example_While.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\bin\Debug\net6.0\Example_While.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.csproj.AssemblyReference.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.AssemblyInfoInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.AssemblyInfo.cs
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.csproj.CoreCompileInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\refint\Example_While.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\Example_While.genruntimeconfig.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_While\obj\Debug\net6.0\ref\Example_While.dll
