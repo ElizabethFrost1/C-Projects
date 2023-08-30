@@ -1,0 +1,15 @@
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\bin\Debug\net6.0\Example_Sum.exe
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\bin\Debug\net6.0\Example_Sum.deps.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\bin\Debug\net6.0\Example_Sum.runtimeconfig.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\bin\Debug\net6.0\Example_Sum.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\bin\Debug\net6.0\Example_Sum.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.csproj.AssemblyReference.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.AssemblyInfoInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.AssemblyInfo.cs
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.csproj.CoreCompileInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\refint\Example_Sum.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\Example_Sum.genruntimeconfig.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_Sum\obj\Debug\net6.0\ref\Example_Sum.dll
