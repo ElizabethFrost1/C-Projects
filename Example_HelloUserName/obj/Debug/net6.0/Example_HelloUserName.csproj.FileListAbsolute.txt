@@ -1,0 +1,15 @@
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.csproj.AssemblyReference.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.AssemblyInfoInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.AssemblyInfo.cs
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.csproj.CoreCompileInputs.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\bin\Debug\net6.0\Example_HelloUserName.exe
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\bin\Debug\net6.0\Example_HelloUserName.deps.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\bin\Debug\net6.0\Example_HelloUserName.runtimeconfig.json
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\bin\Debug\net6.0\Example_HelloUserName.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\bin\Debug\net6.0\Example_HelloUserName.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\refint\Example_HelloUserName.dll
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.pdb
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\Example_HelloUserName.genruntimeconfig.cache
+C:\Users\зс\OneDrive\Рабочий стол\C-Projects\Example_HelloUserName\obj\Debug\net6.0\ref\Example_HelloUserName.dll
